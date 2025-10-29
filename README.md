@@ -1,4 +1,4 @@
-# Studie Dashboard - To-Do List
+# To-Do List
 
 Een moderne, responsieve to-do list applicatie gebouwd met React, PHP en SQLite. Perfect voor het organiseren van studietaken en het bijhouden van voortgang.
 
