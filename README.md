@@ -1,6 +1,6 @@
 # To-Do List
 
-Een moderne, responsieve to-do list applicatie gebouwd met React, PHP en SQLite. Perfect voor het organiseren van studietaken en het bijhouden van voortgang.
+Een moderne, responsieve to-do list applicatie gebouwd met React, PHP en SQL. Perfect voor het organiseren van studietaken en het bijhouden van voortgang.
 
 ![Studie Dashboard](https://img.shields.io/badge/Status-Active-brightgreen)
 ![PHP Version](https://img.shields.io/badge/PHP-7.4+-blue)
